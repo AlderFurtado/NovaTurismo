@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#000067</color>
     <color name="colorAccent">#FF4081</color>
 
     <color name="indicador_intro_default">#e35050</color>
     <color name="indicador_intro_select">#e41f1f</color>
+
+    <color name="corPrimario">#000067</color>
+    <color name="corPrimariaClara">#2727d6</color>
+    <color name="corTelaFundo">#f2eded</color>
+    <color name="branco">#fafafa</color>
+    <color name="corTextoFraca">#767373</color>
+    <color name="margem_item">#d21d1d1d</color>
+    <color name="corTextoMuitoFraca">#c4c4c4</color>
 
 </resources>
